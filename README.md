@@ -1,6 +1,6 @@
 # ThinkPHP6-LayUI-React-Router6-Antd5-Mobx-gallery
-基于ThinkPHP6的多应用模式，前端后台使用Layui和ThinkPHP6视图搭建、前台使用React+Mobx+Router6+Antd5搭建的图床系统，前端前后台均支持响应式，由于前台使用了Antd5，所以请使用新一代浏览器访问（如：edge）
-#注意：前端前台只能使用新一代浏览器访问，本项目没有处理Antd5的浏览器兼容性问题
+基于ThinkPHP6的多应用模式，前端后台使用Layui和ThinkPHP6视图搭建、前台使用React+Mobx+Router6+Antd5搭建的图床系统，前端前后台均支持响应式，由于前台使用了Antd5，所以请使用新一代浏览器访问（如：edge）  
+# 注意：前端前台只能使用新一代浏览器访问，本项目没有处理Antd5的浏览器兼容性问题
 
 # 项目演示
 前台：http://gallery.000081.xyz/  
