@@ -1,0 +1,18 @@
+<?php
+declare (strict_types = 1);
+
+namespace app\admin\model;
+
+use think\Model;
+
+/**
+ * @mixin Model
+ */
+class Users extends Model
+{
+    protected static function init()
+    {
+        //TODO:初始化内容
+
+    }
+}
