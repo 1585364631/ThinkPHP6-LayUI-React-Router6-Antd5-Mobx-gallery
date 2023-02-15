@@ -9,7 +9,7 @@ use think\Request;
 use think\response\Json;
 use app\admin\model\PhotoAlbum;
 
-class PhotoAlbums
+class Photo
 {
     /**
      * 获取所有相册列表
