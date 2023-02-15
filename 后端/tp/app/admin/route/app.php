@@ -33,7 +33,7 @@ Route::group('api',function (){
         Route::any('user', 'admin/user/index')->name('userApi');
 
         // 相册列表
-        Route::any('photoAlbum', 'admin/photoalbums/index')->name('photoAlbumApi');
+        Route::any('photo', 'admin/photo/index')->name('photoAlbumApi');
 
         // 图片列表
         Route::any('picture', 'admin/picture/index')->name('pictureApi');
